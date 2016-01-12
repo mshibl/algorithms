@@ -1,3 +1,6 @@
+// Time Complexity = O(log(n))
+// Space Complexity = O(n)
+
 /* Returns either the index of the location in the array,
   or -1 if the array did not contain the targetValue */
 var doSearch = function(array, targetValue) {
